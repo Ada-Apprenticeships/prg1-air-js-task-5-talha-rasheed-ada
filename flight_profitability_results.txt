@@ -1,0 +1,10 @@
+Error: Invalid aircraft type: Large narrow body
+Error: Invalid aircraft type: Medium narrow body
+Error: Invalid aircraft type: Medium wide body
+Error: Invalid aircraft type: Medium narrow body
+Error: Invalid aircraft type: Large narrow body
+Error: Invalid aircraft type: Medium wide body
+Error: Invalid aircraft type: Medium narrow body
+Error: Invalid aircraft type: Large narrow body
+Error: Invalid aircraft type: Medium narrow body
+Error: Invalid aircraft type: Medium wide body
